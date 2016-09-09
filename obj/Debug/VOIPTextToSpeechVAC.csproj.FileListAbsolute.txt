@@ -1,0 +1,9 @@
+C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\bin\Debug\VOIPTextToSpeechVAC.exe.config
+C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\bin\Debug\VOIPTextToSpeechVAC.exe
+C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\bin\Debug\VOIPTextToSpeechVAC.pdb
+C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\obj\Debug\VOIPTextToSpeechVAC.csprojResolveAssemblyReference.cache
+C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\obj\Debug\VOIPTextToSpeechVAC.Properties.Resources.resources
+C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\obj\Debug\VOIPTextToSpeechVAC.csproj.GenerateResource.Cache
+C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\obj\Debug\VOIPTextToSpeechVAC.exe
+C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\obj\Debug\VOIPTextToSpeechVAC.pdb
+C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\obj\Debug\VOIPTextToSpeechVAC.BaseGUI.resources
