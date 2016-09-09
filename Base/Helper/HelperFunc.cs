@@ -15,6 +15,7 @@
 //    along with CSGO Theme Control.  If not, see <http://www.gnu.org/licenses/>.
 
 using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 using VOIPTextToSpeechVAC.Base.Constants;
@@ -26,6 +27,18 @@ namespace VOIPTextToSpeechVAC.Base.Helper
     /// </summary>
     public static class HelperFunc
     {
+
+        public static string GenerateStringFromKeys(List<Keys> k)
+        {
+            String s = "";    
+
+            foreach (Keys c in k)
+            {
+                s += c.ToString();
+            }
+
+            return s;
+        }
 
         /// <summary>
         /// Used to create whitespace of various amounts
@@ -43,21 +56,6 @@ namespace VOIPTextToSpeechVAC.Base.Helper
             }
 
             return s;
-        }
-
-        /// <summary>
-        /// Creates a shorthand filename for an absolute path.
-        /// </summary>
-        /// 
-        /// <param name="FullThemePath">Absolute path to the theme starting from the C: or equivalent drive.</param>
-        /// 
-        /// <returns>A new string created at the last index of '\\' which results in the filename of the given themepath.</returns>
-        /// 
-        /// <example>C:\\Windows\\Resources\\Ease of Access Themes\\hc1.theme => hc1.theme</example>
-        public static string CreateShortHandTheme(string FullThemePath)
-        {
-            int index = FullThemePath.LastIndexOf("\\", StringComparison.Ordinal);
-            return FullThemePath.Substring(index + 1);
         }
 
         /// <summary>

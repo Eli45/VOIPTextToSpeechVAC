@@ -7,3 +7,5 @@ C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Rec
 C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\obj\Debug\VOIPTextToSpeechVAC.exe
 C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\obj\Debug\VOIPTextToSpeechVAC.pdb
 C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\obj\Debug\VOIPTextToSpeechVAC.BaseGUI.resources
+C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\bin\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\EliF\Desktop\Coding\Github Repos\Type Voice To Speech over VA Cable Recreation\VOIPTextToSpeechVAC\VOIPTextToSpeechVAC\bin\Debug\MouseKeyboardActivityMonitor.xml

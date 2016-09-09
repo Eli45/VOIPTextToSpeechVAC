@@ -9,21 +9,34 @@ namespace VOIPTextToSpeechVAC.Base.KeyLogger
 {
     class KeyLogger
     {
-        List<Keys> KeysPressed = new List<Keys>();
+        public List<Keys> KeysPressed = new List<Keys>();
 
         public bool IsListening = false;
         public UInt64 ActivationTime;//TODO
 
-        public KeyLogger() {
+        public KeyLogger() 
+        {
 
         }
 
-        public void StartListening() {
-
+        public void StartListening() 
+        {
+            this.IsListening = true;
         }
 
-        public void StopListening() {
+        public void StopListening()
+        {
+            this.IsListening = false;
+        }
 
+        public void AddKey(Keys k)
+        {
+            this.KeysPressed.Add(k);
+        }
+
+        public void ResetKeys()
+        {
+            this.KeysPressed = new List<Keys>();
         }
     }
 }

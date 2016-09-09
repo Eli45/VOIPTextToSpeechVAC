@@ -20,9 +20,7 @@ namespace VOIPTextToSpeechVAC.Base.UserSettings
     {
         public enum Options
         {
-            CLEAN_LOGS,
-            CLEAN_FATAL_LOGS,
-            CLEAN_LOGS_ONLY_BEFORE_TODAY
+
         }
 
     }
